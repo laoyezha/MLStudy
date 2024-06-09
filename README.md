@@ -34,3 +34,9 @@ conda update -n xxx numpy
 # 删除package
 conda remove -n xxx numpy
 ```
+
+## git 
+
+```
+git push origin xxx
+```
